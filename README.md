@@ -1,9 +1,6 @@
 # NPR Scraper
 ## News Scraper with Mongo DB and Cheerios 
 
-**The fully deployed app can be found at:**
-_https://suz-scraper.herokuapp.com/_
-
 ### Objective
 
 express
