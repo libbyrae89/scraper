@@ -8,9 +8,13 @@ Create a web app that that lets users view and leave comments on the latest news
 Install and save the following npm packages:
 
 express
+
 express-handlebars 
+
 mongoose
+
 cheerio
+
 axios
 
 
